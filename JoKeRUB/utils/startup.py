@@ -317,7 +317,7 @@ async def verifyLoggerGroup():
             print("᯽︙تم إنشاء مجموعة المسـاعدة بنجاح وإضافتها إلى المتغيرات.")
         flag = True
     if PM_LOGGER_GROUP_ID == -100:
-        descript = "᯽︙ وظيفه الكروب يحفظ رسائل الخاص اذا ما تريد الامر احذف الكروب نهائي \n  - @Jepthon"
+        descript = "᯽︙ وظيفه الكروب يحفظ رسائل الخاص اذا ما تريد الامر احذف الكروب نهائي \n  - @T_Y_E_X"
         photobt = await l313l.upload_file(file="l313l/razan/resources/start/AFROTOO2.JPEG")
         pm_logger_group_id = await aljoker_the_best(l313l, "مجموعة التخزين")
         if pm_logger_group_id:
